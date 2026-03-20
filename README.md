@@ -59,3 +59,5 @@ http://localhost:8317/management.html
 接口：http://localhost:8317/v1
 
 模型：qwen3-coder-plus
+
+更多教程可以访问https://t.me/wzxylh，看到问题留言我都会一一解答
